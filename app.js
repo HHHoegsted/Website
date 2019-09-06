@@ -1,3 +1,5 @@
+//TODO: Move these to a json file and make the cards find the text there.
+
 const adgangsText='<p>Et kursus for håndværkere og andre med en ikke-gymnasiel baggrund. Det er et komprimeret forløb på 18 måneder, hvor man tager de fag fra STX der er nødvendige for at komme ind på Ingeniørhøjskolen. Jeg fandt undervejs ud af at jeg hellere ville læse på KU, og valgte at tage nogle supplerende fag bagefter.</p>';
 const gskText='<p>Opgradering af fag så jeg havde kemi, fysik og matematik på A-niveau, engelsk på B- niveau og biologi på C-niveau. Jeg skrev også større skriftlig opgave i fast-fase protein syntese.</p>';
 const kemiText='<p>Jeg gennemførte de første to år af uddannelsen, herunder uorganisk kemi, organisk kemi, fysisk kemi, spektroskopi og valensteori, matematik, fysik og videnskabsteori. De to år gav mig en grundig ballast inden for teoretisk kemi som mange laboranter ikke besidder, og gav mig samtidig en interesse for organisk syntese som jeg bibeholder i dag.</p>';
