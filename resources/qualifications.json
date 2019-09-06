@@ -1,0 +1,10 @@
+{
+    "qualifications":{
+        "it": ["HTML", "CSS", "JavaScript","Bootstrap","jQuery","AJAX","Node.js","Express","C#","Java","Python","Visual Basic","Pascal","SQL","MongoDB","Design Patterns","Unit Testing","Algoritmer og datastrukturer","Git & Github","Linux","Windows","OSX","Word","Excel","PowerPoint"],
+        "laborant":["Laboratorieteknik","Organisk Syntese","Mikrobiologi","Genteknologi","HPLC","GCMS","AAS","NMR","IR","TLC","(Reverse Phase) Column Chromatography","Uorganisk Kvalitativ analyse","Organisk kvalitativ analyse","Opdyrkning og analyse af mikrobiologiske kulturer","ELISA","PCR","Celledyrkning","Indsamling og behandling af prøver","Statistik og databehandling","Laboratoriesikkerhed","Matematik","Fysik"],
+        "reng":["INSTA800","DS2451-10","NIR","Glosair","Infektionshygiejne","Smittespredning","Rengøringsmidlers kemi","Renrumsrengøring","Generel rengøringsteknik","Kvalitetsudvikling","Kvalitetssikring","Arbejdstilrettelæggelse","Personlig sikkerhed","Rengøringshygiejne","Patienttransport","Hjerte- og lungeredning","Forflytningsteknik","Kapeltjeneste","Lejring","Forebyggelse af decubitus","Assistance ved genoptræning"],
+        "ledelse":["Personaleledelse","Coaching","Teamledelse","Personalejura","Konflikthåndtering","Motivation af fagprofessionelle","Anerkendende ledelse","High Performance Teams","Strategisk ledelse","Udvikling af professionelle teams","KPI","Kaizen","Teamudvikling","Whole Brain","MBTI","Hverdagsledelse","Hjemmeværnets Gruppeføreruddannelse","DDS Linjeleder","Junior- og Tropsleder","Gilwell"],
+        "undervisning":["Undervisning af medarbejdere","Undervisning i Praksis","Hjemmeværnets Instruktøruddannelse","Tavleundervisning","Undervisning på DDS' bunkekurser","Undervisning af børn og unge i spejdersammenhæng","Vejledning som undervisningsmetode","Didaktik og læringsstile","Mentor i studietiden","Mentorfunktion i IKEA"],
+        "misc":["Dansk som modersmål","Engelsk i tale og skrift","Tysk - grundlæggende","Kørekort B","Elektronik","Arduino","Raspberry Pi"]  
+    }
+}

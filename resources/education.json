@@ -1,0 +1,14 @@
+{ 
+    "adgang":
+    "<p>Et kursus for håndværkere og andre med en ikke-gymnasiel baggrund. Det er et komprimeret forløb på 18 måneder, hvor man tager de fag fra STX der er nødvendige for at komme ind på Ingeniørhøjskolen. Jeg fandt undervejs ud af at jeg hellere ville læse på KU, og valgte at tage nogle supplerende fag bagefter.</p>",
+
+    "gsk":
+    "<p>Opgradering af fag så jeg havde kemi, fysik og matematik på A-niveau, engelsk på B- niveau og biologi på C-niveau. Jeg skrev også større skriftlig opgave i fast-fase protein syntese.</p>",
+
+    "kemi":
+    "<p>Jeg gennemførte de første to år af uddannelsen, herunder uorganisk kemi, organisk kemi, fysisk kemi, spektroskopi og valensteori, matematik, fysik og videnskabsteori. De to år gav mig en grundig ballast inden for teoretisk kemi som mange laboranter ikke besidder, og gav mig samtidig en interesse for organisk syntese som jeg bibeholder i dag.</p>",
+"laborant":"<p>Under mine studier på kemisk institut gik det op for mig at jeg trivedes bedst i laboratoriet.Derfor valgte jeg at ”stige om”, og tage laborantuddannelsen i stedet.<br><br> Grundlæggende laboratorieteknik, mikrobiologiske metoder, immunkemi herunder ELISA, PCR og celledyrkning. Kemiske analyser, HPLC, GCMS, AAS mm. 1. års projekt i mikrobiologisk undersøgelse af oksekød, 3. semesterprojekt i genteknologi, skoleprojekt: ”syntese af derivat af tetrahydroisoqunolin”, afsluttende projekt: ”Fremstilling af ni-leddet forbindelse til syntesen af Castanospermin”.<br><br>Under selve uddannelsen valgte jeg flere projekter og valgfag inden for kemiske metoder, og valgte at tage min laborantpraktik på DTU’s kemiske institut inden for organisk syntese. Under min praktik blev jeg hjemmevant i det organiske synteselaboratorie, og lærte flere analysemetoder der anvendes her, herunder NMR, IR, søjlekromatografi (normal og omvendt fase) og TLC.</p>",
+"ledelse":"<p>Region Hovedstadens interne ledelsesudviklingsprogram som løber over et år med skiftende ekstern kursusvirksomhed, interne kurser og projekter i arbejdstiden. Består af 6 moduler som indbefatter drift, økonomi, personalehåndtering og -jura, strategisk ledelse, innovationsledelse, coaching og selvudvikling og -indsigt.</p>",
+"akademi":"<p>Modulopbygget uddannelse der tages som aftenkursus hos erhvervsakademierne. Jeg går på CPHBusiness, og forventer at være færdig med uddannelsen i 2020. Uddannelsesniveauet er på linje med datamatikere.<br><br>Jeg har arbejdet med C#, Java, SQL, og front-end webdesign. Jeg har fået en forståelse for objektorienterede principper som Agilt Test-driven Design, SOLID og Design Patterns.</p>",
+"asp":"<p>6-ugers erhvervsrettet uddannelse i fullstack development, hvor der arbejdes i dybden med C#, front-end design teknologier som HTML, CSS, JS (og ES6), jQuery, Bootstrap mm.<br><br>Jeg forventer at afslutte kurset med Microsofts 70-486 certifikat.</p>"
+}
