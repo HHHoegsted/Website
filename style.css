@@ -220,25 +220,25 @@ section {
 }
 
 .box:hover .card:nth-child(1){
-    transform: rotate(-45deg) translate(0px,0px);
+    transform: rotate(-45deg) translate(-30px,0px);
 }
 .box:hover .card:nth-child(2){
-    transform: rotate(-30deg) translate(0px,0px);
+    transform: rotate(-30deg) translate(-20px,0px);
 }
 .box:hover .card:nth-child(3){
-    transform: rotate(-15deg) translate(0px,0px);
+    transform: rotate(-15deg) translate(-10px,0px);
 }
 .box:hover .card:nth-child(4){
     transform: rotate(0deg) translate(0px,0px);
 }
 .box:hover .card:nth-child(5){
-    transform: rotate(15deg) translate(0px,0px);
+    transform: rotate(15deg) translate(10px,0px);
 }
 .box:hover .card:nth-child(6){
-    transform: rotate(30deg) translate(0px,0px);
+    transform: rotate(30deg) translate(20px,0px);
 }
 .box:hover .card:nth-child(7){
-    transform: rotate(45deg) translate(0px,0px);
+    transform: rotate(45deg) translate(30px,0px);
 }
 
 .box .card:hover{
@@ -549,7 +549,7 @@ section {
 
 #kontakt {
   position: relative;
-  background: #333;
+  background: #ccc;
   padding-top: 100px;
   display: flex;
   flex-direction: column;
@@ -562,11 +562,11 @@ section {
   font-size: 3.5em;
   text-align: center;
   margin-bottom: 50px;
-  color: #ccc;
+  color: #333;
 }
 
 #kontakt form label{
-  color:#ccc;
+  color:#333;
 }
 
 #kontakt form input{
@@ -582,8 +582,8 @@ section {
 
 #sendmsg{
   width: 100%;
-  background: #ccc;
-  color: #333;
+  background: #333;
+  color: #ccc;
   border: none;
   padding: 20px;
   border-radius: 30px;
